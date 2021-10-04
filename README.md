@@ -1,4 +1,4 @@
-# 1termin
+# 1termin booking app
 ![](screenshot/login.png)
 ![](screenshot/maps.png)
 ![](screenshot/login_or_register.png)
